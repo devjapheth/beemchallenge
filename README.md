@@ -37,7 +37,7 @@ For the Part that I integrate SMS API is when an Accountants needs to remind All
 
 So the Accountant will send a Bulk SMS to all Student and the SMS will be like " Hello John Doe Kindly you are Required to pay Tshs 300,000/= for Tution Fee before Sitting for your Exams. Note that Student who did not pay on time will be disqulified. Thank you"
 
-- This will help a lot of student and parents to be get the right information at the right time
+- This will help a lot of student and parents to get the right information at the right time
 
 
 
