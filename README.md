@@ -1,6 +1,8 @@
 # beemchallenge
 
 **CHALLENGE DETAILS**
+
+
 Theme: Solving problems for SMESSmall and medium sized enterprises and organizations make up most of the businesses and Beem users across Africa. For example, these organizations can be retail shops, service businesses, agencies, schools, religious institutions. 
 
 The challenge for these organizations is that their customers are increasingly moving online, mobile or digital. Some of them may already have a website or an ecommerce shop or presence on social media (Facebook, Instagram, WhatsApp).
@@ -11,15 +13,19 @@ These organizations need help to improve their productivity as well as how to co
 
 
 **HOW MY PROJECT FIT**
+
+
 As we know that Technology comes to make communication easy and effective more that it was before.. In Education there are things that needs to be done especially in schools, collages and universities that might help Parents, and Students to get information on time. For Example most of Parents now are Busy with their Jobs which leads to forget to follow up their childrens school performances and it is very bad. But what if Parents get SMS direct from the Schools which shows the performance of their childrens in school..Yes they will be attention everyday and it will help more on parents to know ways to help their children perform well in school etc
 
 **API USED**
+
 
 SMS API --- https://beem.africa/sms-api/
 
 I Use this SMS API to send Reminder to Students to pay for their bills before sitting for there exams. 
 
-**How the System Work**
+
+**HOW MY SYSTEM WORKS**
 
 This is a digital clearance system it was a final project for my final year for my IT Degree in 2019, This System Interects between Registar Office, Account Department, Library and Students, where by the main objective was to change from manual clearance system to digital to help student save more time, but also to make sure that accounts dpt , registar office and library to never loose their records.
 
