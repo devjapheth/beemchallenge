@@ -15,14 +15,18 @@ These organizations need help to improve their productivity as well as how to co
 **HOW MY PROJECT FIT**
 
 
-As we know that Technology comes to make communication easy and effective more that it was before.. In Education there are things that needs to be done especially in schools, collages and universities that might help Parents, and Students to get information on time. For Example most of Parents now are Busy with their Jobs which leads to forget to follow up their childrens school performances and it is very bad. But what if Parents get SMS direct from the Schools which shows the performance of their childrens in school..Yes they will be attention everyday and it will help more on parents to know ways to help their children perform well in school etc
+As we know that Technology comes to make communication easy and effective more that it was before.. In Education there are things that needs to be done especially in schools, collages and universities that might help Parents, and Students to get information on time. 
+
+For Example most of Parents now are Busy with their Jobs which leads to forget to follow up their childrens school performances and it is very bad. But what if Parents get SMS direct from the Schools which shows the performance of their childrens in school..Yes they will be attention everyday and it will help more on parents to know ways to help their children perform well in school etc
+
+**My Project -  uses SMS API from Beem, and the API is configured to send Bulk SMS on All Students reminding them to pay their bills before sitting in the Examination**
+
 
 **API USED**
 
 
 SMS API --- https://beem.africa/sms-api/
 
-I Use this SMS API to send Reminder to Students to pay for their bills before sitting for there exams. 
 
 
 **HOW MY SYSTEM WORKS**
@@ -35,7 +39,6 @@ So the Accountant will send a Bulk SMS to all Student and the SMS will be like "
 
 - This will help a lot of student and parents to be get the right information at the right time
 
-Thank you so much
 
 
 Project Link in Google Drive (https://drive.google.com/file/d/1VSbb5yrr37fWi55lVqZNWEYkWu-JNu1m/view?usp=sharing)
